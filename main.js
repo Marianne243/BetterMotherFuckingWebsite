@@ -1,15 +1,12 @@
-<script
-var popup = function() {
-    // Boite de dialogue OK-CANCEL
-    popup = confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please") 
-    if (popup == true) { 
-        // Redirection lien
-        window.location = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
-    }
-};
-setTimeout(popup, 10000)
-
-function couleur() {
-    document.body.style.backgroundColor = "magenta";
-}>
+<script>
+	window.onload = setTimeout(
+		function() {
+            if confirm('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+            {
+                txt = "You pressed Ok!"; 
+            window.location = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+            }
+            else { txt = "You presses cancel:";
+		}
+	, 10000);
 </script>
