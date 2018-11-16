@@ -3,10 +3,10 @@
 <body>
 
 
-setTimeout(myFunction, 10000);
+setTimeout("alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');", 10000);
 
 <script>
-function myFunction() {
+     {
   if alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
   txt = "You pressed OK!";
 } else {
