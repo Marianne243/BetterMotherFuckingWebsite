@@ -1,16 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
 
-<script 
-if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")) {
-                txt = ("You pressed OK!";
-            } else {
-                txt = "You pressed Cancel!";
-            } 
-            function() {
-                delay = 10; 
-  timer = setTimeout(open "Hey le site xxxvidsxxx est trop bien. Viens dessus stp please";
-}   
-            > 
-            
-            
-            </script> 
+<p>Alert. Wait 10 seconds, and the page will alert "Hey le site xxxvidsxxx est trop bien. Viens dessus stp please".</p>
 
+
+<button onclick="setTimeout(myFunction, 10000);">OK</button>
+
+<script>
+function myFunction() {
+  if alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+  txt = "You pressed OK!";
+} else {
+    txt = "You pressed Cancel!";
+} 
+</script>
+
+</body>
+</html>
