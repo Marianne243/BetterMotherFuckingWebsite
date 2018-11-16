@@ -1,4 +1,8 @@
-<!DOCTYPE html "https://marianne243.github.io/">
 
-<script LANGUAGE="JavaScript"> window.alert("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please"); </script> 
+<script 
+if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")) {
+                txt = "You pressed OK!";
+            } else {
+                txt = "You pressed Cancel!";
+            }> </script> 
 
