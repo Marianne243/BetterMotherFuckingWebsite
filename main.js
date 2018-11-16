@@ -1,5 +1,13 @@
-if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please!")) {
-    txt = "You pressed OK!";
-} else {
-    txt = "You pressed Cancel!";
+var popup = function() {
+    // Boite de dialogue OK-CANCEL
+    popup = confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please") 
+    if (popup == true) { 
+        // Redirection lien
+        windows.location = "https://youtube.com/watch?v=dQw4w9WgXcQ";
+    }
+};
+setTimeout(popup, 10000)
+
+function couleur() {
+    document.body.style.backgroundColor = "magenta";
 }
