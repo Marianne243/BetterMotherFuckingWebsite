@@ -1,3 +1,4 @@
+<script
 var popup = function() {
     // Boite de dialogue OK-CANCEL
     popup = confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please") 
@@ -10,4 +11,5 @@ setTimeout(popup, 10000)
 
 function couleur() {
     document.body.style.backgroundColor = "magenta";
-}
+}>
+</script>
