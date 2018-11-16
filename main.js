@@ -1,7 +1,7 @@
 
 <script 
 if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please")) {
-                txt = ("You pressed OK!" <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" onclick="window.confirm('https://www.youtube.com/watch?v=dQw4w9WgXcQ');"> </a>; 
+                txt = ("You pressed OK!";
             } else {
                 txt = "You pressed Cancel!";
             } 
